@@ -2,7 +2,7 @@
 
 A flowing water example for KAG. Open sourced and heavily commented for the community.
 
-[img]https://i.imgur.com/VwpXouy.gif[/img]
+![Animated Example of Flowing Water](https://i.imgur.com/VwpXouy.gif)
 
 # Installation
 
